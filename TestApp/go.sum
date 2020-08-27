@@ -7,6 +7,7 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/delfosk/GoLearning v0.0.0-20200818103047-5ac62569653f h1:leOG/mPas55NgZi5XYbL9P8b5qM2U24b0y2vAV8y6YU=
 github.com/delfosk/GoLearning v0.0.0-20200827163502-2ccd4cfe97aa h1:Olg88ewn+uhiKt0/fwmPH09y7jnhZN13r0jTgFPf/g8=
+github.com/delfosk/GoLearning v0.0.0-20200827163502-2ccd4cfe97aa/go.mod h1:bSfeBnXDCU1R0K6ObxCif+X/hc+jkENMvMIMkXd7cXo=
 github.com/delfosk/GoLearning/TestApp v0.0.0-20200827163502-2ccd4cfe97aa h1:px6RItWpndhbDo/6b1+CD2ZpDbvvAnZrs4b1nQb5ULQ=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
