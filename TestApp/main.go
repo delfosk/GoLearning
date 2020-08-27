@@ -5,7 +5,7 @@ import (
 	"flag"
 	"net/http"
 
-	gw "github.com/delfosk/GoLearning/tree/release/TESTAPP/proto" // Update
+	gw "github.com/delfosk/GoLearning/TestApp/example" // Update
 
 	"github.com/golang/glog"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
